@@ -1,0 +1,16 @@
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.exe
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.deps.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.runtimeconfig.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.runtimeconfig.dev.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\ref\lab5-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\bin\Debug\net5.0\lab5-zadania.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.csproj.AssemblyReference.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.AssemblyInfoInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.AssemblyInfo.cs
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.csproj.CoreCompileInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\ref\lab5-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab5-zadania\lab5-zadania\obj\Debug\net5.0\lab5-zadania.genruntimeconfig.cache
