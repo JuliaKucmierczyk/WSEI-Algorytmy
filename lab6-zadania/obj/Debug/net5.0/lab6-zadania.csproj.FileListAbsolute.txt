@@ -1,0 +1,16 @@
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.exe
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.deps.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.runtimeconfig.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.runtimeconfig.dev.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\ref\lab6-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\bin\Debug\net5.0\lab6-zadania.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.csproj.AssemblyReference.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.AssemblyInfoInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.AssemblyInfo.cs
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.csproj.CoreCompileInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\ref\lab6-zadania.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab6-zadania\lab6-zadania\obj\Debug\net5.0\lab6-zadania.genruntimeconfig.cache
