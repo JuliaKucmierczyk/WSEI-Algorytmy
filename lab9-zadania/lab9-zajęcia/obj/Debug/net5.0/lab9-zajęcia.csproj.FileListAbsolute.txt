@@ -1,0 +1,16 @@
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.exe
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.deps.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.runtimeconfig.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.runtimeconfig.dev.json
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\ref\lab9-zajęcia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\bin\Debug\net5.0\lab9-zajęcia.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.csproj.AssemblyReference.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.AssemblyInfoInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.AssemblyInfo.cs
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.csproj.CoreCompileInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\ref\lab9-zajęcia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\lab9-zajęcia\lab9-zajęcia\obj\Debug\net5.0\lab9-zajęcia.genruntimeconfig.cache
