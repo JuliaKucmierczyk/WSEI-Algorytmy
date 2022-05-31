@@ -1,0 +1,16 @@
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.exe
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.deps.json
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.runtimeconfig.json
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.runtimeconfig.dev.json
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ref\ćwiczenia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\bin\Debug\net5.0\ćwiczenia.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.csproj.AssemblyReference.cache
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.AssemblyInfoInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.AssemblyInfo.cs
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.csproj.CoreCompileInputs.cache
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ref\ćwiczenia.dll
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.pdb
+D:\Users\Julia.Kucmierczyk\source\repos\ćwiczenia\ćwiczenia\obj\Debug\net5.0\ćwiczenia.genruntimeconfig.cache
